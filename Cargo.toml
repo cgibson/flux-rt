@@ -1,0 +1,4 @@
+[package]
+name = "flux-rt"
+version = "0.1.0"
+authors = ["Chris Gibson <cgibson@mrvoxel.com>"]
